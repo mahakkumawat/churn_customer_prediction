@@ -23,7 +23,7 @@ with st.spinner("Loading AI Model..."):
 
 # ===== Title =====
 st.title("📊 Customer Churn Analysis Dashboard")
-st.caption("🚀 Built by Ashish joshi | ML Project")
+st.caption("🚀 Built by Mahak Kumawat | ML Project")
 
 # ===== Input Section =====
 col1, col2, col3 = st.columns(3)
