@@ -1,0 +1,6 @@
+@echo off
+echo Activating Virtual Environment...
+call.venv\Scripts\activate
+echo starting streamlit...
+streamlit run app.py
+pause
